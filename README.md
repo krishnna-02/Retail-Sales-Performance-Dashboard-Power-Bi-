@@ -20,20 +20,7 @@ It provides an executive-level view of overall business performance while allowi
 
 ---
 
-## 💡 Key Business Questions
 
-This dashboard helps answer questions such as:
-
-- How are monthly sales performing?
-- Which products generate the highest revenue?
-- How do Online and Offline sales compare?
-- Which regions contribute the most to total sales?
-- How does sales performance change across years and categories?
-- How many unique customers are contributing to sales?
-- What is the average order value?
-- Which product categories and regions require further analysis?
-
----
 
 ## 📌 Key Performance Indicators
 
